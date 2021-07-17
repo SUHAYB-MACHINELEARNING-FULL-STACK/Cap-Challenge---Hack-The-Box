@@ -11,6 +11,7 @@
 <div align="center"><h1>Instructions</h1></div>
 
 <ol>
+  <h1>Level 1</h1>
   <h2><li>Chapter 1 - Ping</li></h2>
   <h2><li>Chapter 2 - Nmap</li></h2>
   <h2><li>Chapter 3 - Open The Website</li></h2>
@@ -24,4 +25,7 @@
   <h2><li>Chapter 7 - ls</li></h2>
   <h2><li>Chapter 8 - show The Flag in user.txt</li></h2>
   <h3>Chapter 9 - Completed The Level 1 😍 🥳 💪</h3>
+  <hr>
+  <h1>Level 2</h1>
+  <h2><li>Chapter 1</li></h2>
   </ol>
