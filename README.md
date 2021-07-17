@@ -9,3 +9,14 @@
 <hr>
 
 <div align="center"><h1>Instructions</h1></div>
+
+<ol>
+  <li>Level 1 - Ping</li>
+  <li>Level 2 - Nmap</li>
+  <li>Level 3 - Open The Website</li>
+  <li>Level 4 - Open The pcap File in wireshark Tool</li>
+  <li>Level 5 - use ftp Filter in WireShark</li>
+  
+  <p>Username: nathan</p>
+  <p>Password: .......</p>
+  </ol>
