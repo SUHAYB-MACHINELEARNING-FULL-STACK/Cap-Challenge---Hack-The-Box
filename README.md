@@ -1,5 +1,4 @@
 <html>
-  <body>
           <div align="center"><img src="https://i.ytimg.com/vi/_pjICT3pdNw/maxresdefault.jpg" width="500" style="display:none;" /><br><h1>Hack The Box - Cap Challenge</h1></div>
 
           <h2>Hello 😍</h2>
@@ -10,5 +9,4 @@
 
           <img src="https://www.olawaleh.com/blog/wp-content/uploads/2021/06/cap.png" width="250" /><h3>Cap Challenge</h3>
 
-  </body>
 </html>
