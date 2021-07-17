@@ -11,12 +11,17 @@
 <div align="center"><h1>Instructions</h1></div>
 
 <ol>
-  <h2><li>Level 1 - Ping</li></h2>
-  <h2><li>Level 2 - Nmap</li></h2>
-  <h2><li>Level 3 - Open The Website</li></h2>
-  <h2><li>Level 4 - Open The pcap File in wireshark Tool</li></h2>
-  <h2><li>Level 5 - use ftp Filter in WireShark</li></h2>
+  <h2><li>Chapter 1 - Ping</li></h2>
+  <h2><li>Chapter 2 - Nmap</li></h2>
+  <h2><li>Chapter 3 - Open The Website</li></h2>
+  <h2><li>Chapter 4 - Open The pcap File in wireshark Tool</li></h2>
+  <h2><li>Chapter 5 - use ftp Filter in WireShark</li></h2>
   
   <h3><p>Username: nathan</p>
     <p>Password: .......</p></h3>
+  
+  <h2><li>Chapter 6 - Open nathan@[ip address] with ftp</li></h2>
+  <h2><li>Chapter 7 - ls</li></h2>
+  <h2><li>Chapter 8 - show The Flag in user.txt</li></h2>
+  <h2><li>Chapter 9 - Completed The Level 1</h2>
   </ol>
