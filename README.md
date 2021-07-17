@@ -23,5 +23,5 @@
   <h2><li>Chapter 6 - Open nathan@[ip address] with ftp</li></h2>
   <h2><li>Chapter 7 - ls</li></h2>
   <h2><li>Chapter 8 - show The Flag in user.txt</li></h2>
-  <h2>Chapter 9 - Completed The Level 1 😍 🥳 💪</h2>
+  <h3>Chapter 9 - Completed The Level 1 😍 🥳 💪</h3>
   </ol>
