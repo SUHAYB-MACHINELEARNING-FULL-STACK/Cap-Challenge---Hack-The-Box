@@ -12,6 +12,7 @@
 
 <ol>
   <h2><li>Chapter 1 - Ping</li></h2>
+  <img src="ping.png" />
   <h2><li>Chapter 2 - Nmap</li></h2>
   <h2><li>Chapter 3 - Open The Website</li></h2>
   <h2><li>Chapter 4 - Open The pcap File in wireshark Tool</li></h2>
