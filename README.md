@@ -1,1 +1,1 @@
-<div align="center">Cap Challenge - Hack The Box</div>
+<div align="center" style="color:darkcyan;">Cap Challenge - Hack The Box</div>
