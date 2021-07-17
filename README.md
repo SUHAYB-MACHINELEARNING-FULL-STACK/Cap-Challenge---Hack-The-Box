@@ -6,4 +6,6 @@
 
 <div align="center"><img src="https://www.olawaleh.com/blog/wp-content/uploads/2021/06/cap.png" width="250" /><h3>Cap Challenge</h3></div>
 
+<hr>
+
 <div align="center"><h1>Instructions</h1></div>
