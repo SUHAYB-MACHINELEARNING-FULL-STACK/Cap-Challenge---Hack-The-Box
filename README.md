@@ -16,7 +16,7 @@
   <h2><li>Chapter 2 - Nmap</li></h2>
   <img src="nmap.png" />
   <h2><li>Chapter 3 - Open The Website</li></h2>
-  <video src="Open The Website.mov"></video>
+  <video src="Open The Website.mov" controls></video>
   <h2><li>Chapter 4 - Open The pcap File in wireshark Tool</li></h2>
   <h2><li>Chapter 5 - use ftp Filter in WireShark</li></h2>
   
