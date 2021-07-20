@@ -18,7 +18,7 @@
   <h2><li>Chapter 1 - Ping</li></h2>
   <img src="https://user-images.githubusercontent.com/83054516/126338887-8f8b4010-8aaf-4b7d-9284-18e1be1cd92f.png" />
   <h2><li>Chapter 2 - Nmap</li></h2>
-  <img src="(https://user-images.githubusercontent.com/83054516/126339240-82f39890-150c-4219-8862-f9f226f9b7b0.png" />
+  <img src="https://user-images.githubusercontent.com/83054516/126339240-82f39890-150c-4219-8862-f9f226f9b7b0.png" />
   <h2><li>Chapter 3 - Open The Website</li></h2>
   <video src="https://user-images.githubusercontent.com/83054516/126337643-a631fe6d-f604-435b-9c0f-def73c0626b8.mov"></video>
   <h2><li>Chapter 4 - Open The pcap File in wireshark Tool</li></h2>
