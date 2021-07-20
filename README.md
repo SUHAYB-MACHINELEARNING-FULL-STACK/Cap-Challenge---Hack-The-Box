@@ -25,9 +25,9 @@
   <video src="https://user-images.githubusercontent.com/83054516/126341342-a1223342-dff0-4597-aa3f-9f5b6e918164.mov"></video>
   <h2><li>Chapter 5 - use ftp Filter in WireShark</li></h2>
   
-  <h3><p>Username: nathan</p>
+  <h3><p>Username: nathan</p></h3>
 
-    <p>Password: .......</p></h3>
+   <h3><p>Password: .......</p></h3>
   
   <h2><li>Chapter 6 - Open nathan@[IP] with ftp</li></h2>
   <h2><li>Chapter 7 - ls</li></h2>
