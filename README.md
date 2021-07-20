@@ -16,7 +16,6 @@
   <h2><li>Chapter 2 - Nmap</li></h2>
   <img src="nmap.png" />
   <h2><li>Chapter 3 - Open The Website</li></h2>
-[!myfirstvedio](https://github.com/SUHAYB-MACHINELEARNING-FULL-STACK/Cap-Challenge---Hack-The-Box/blob/7e70785b679b46039393ee596518dab42348e985/Open%20The%20Website.mov)
   <h2><li>Chapter 4 - Open The pcap File in wireshark Tool</li></h2>
   <h2><li>Chapter 5 - use ftp Filter in WireShark</li></h2>
   
