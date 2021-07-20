@@ -28,7 +28,8 @@
 
    <h3><p>Password: .......</p></h3>
   
-  <h2><li>Chapter 6 - Open nathan@[IP] with ftp</li></h2>
+  <h2><li>Chapter 6 - Open [IP] with ftp</li></h2>
+  <video src="https://user-images.githubusercontent.com/83054516/126343724-eff9dfa2-76ad-4a4d-9f2e-b786bbf8cf29.mov"></video>
   <h2><li>Chapter 7 - ls</li></h2>
   <h2><li>Chapter 8 - show The Flag in user.txt</li></h2>
   <h3>Chapter 9 - Completed The Level 1 😍 🥳 💪</h3>
