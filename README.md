@@ -31,7 +31,11 @@
   <h2><li>Chapter 6 - Open [IP] with ftp</li></h2>
   <video src="https://user-images.githubusercontent.com/83054516/126343724-eff9dfa2-76ad-4a4d-9f2e-b786bbf8cf29.mov"></video>
   <h2><li>Chapter 7 - ls</li></h2>
+  <video src="https://user-images.githubusercontent.com/83054516/126345265-9ce8379d-3a89-411b-9757-d59a6d9cfaf0.mov"></video>
+
   <h2><li>Chapter 8 - show The Flag in user.txt</li></h2>
+  <video src="https://user-images.githubusercontent.com/83054516/126345862-6f79c6ef-94ab-47c5-ae10-b76193b94839.mov"></video>
+  <video src="https://user-images.githubusercontent.com/83054516/126346928-58249014-a85c-40f8-9abf-a079e4bc0fda.mov"></video>
   <h3>Chapter 9 - Completed The Level 1 😍 🥳 💪</h3>
   </ol>
 
