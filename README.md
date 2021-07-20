@@ -45,9 +45,13 @@
 
 
   <h2><li>Chapter 1 - Exit & Open nathan@[IP] with ssh</li></h2>
+  Later...
   <h2><li>Chapter 2 - use OS Library with Python Programming Language</li></h2>
+  Later...
   <h2><li>Chapter 3 - cd /root</li></h2>
+  Later...
   <h2><li>Chapter 4 - show The Flag in root.txt</li></h2>
+  Later...
   
   <div align="center"> <h1>Congratulations 😍 🤩 🥳 💪</h2> </div>
   </ol>
