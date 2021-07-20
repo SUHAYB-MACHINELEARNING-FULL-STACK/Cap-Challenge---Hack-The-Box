@@ -15,7 +15,7 @@
 
 <ol>
   <h2><li>Chapter 1 - Ping</li></h2>
-  <img src="ping.png" />
+  <img src="https://user-images.githubusercontent.com/83054516/126338887-8f8b4010-8aaf-4b7d-9284-18e1be1cd92f.png" />
   <h2><li>Chapter 2 - Nmap</li></h2>
   <img src="nmap.png" />
   <h2><li>Chapter 3 - Open The Website</li></h2>
@@ -24,6 +24,7 @@
   <h2><li>Chapter 5 - use ftp Filter in WireShark</li></h2>
   
   <h3><p>Username: nathan</p>
+
     <p>Password: .......</p></h3>
   
   <h2><li>Chapter 6 - Open nathan@[IP] with ftp</li></h2>
